@@ -1,2 +1,3 @@
 # practial
-first one
+first one 
+learning new things
